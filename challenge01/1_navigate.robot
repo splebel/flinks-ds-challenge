@@ -8,5 +8,3 @@ Navigate
     Breakpoint
     Save Challenge Id
     Debug
-    #Execute Javascript    alert("pause")
-    #Sleep    10 minutes
